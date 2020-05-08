@@ -6,5 +6,6 @@ public class AllGood {
     public static void main(String[] args) {
         System.out.println("Hello bro!");
         System.out.println("I am ok, U know, I am ok! :))");
+        // hi
     }
 }
